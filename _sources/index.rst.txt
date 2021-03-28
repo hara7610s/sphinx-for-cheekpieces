@@ -8,10 +8,10 @@ CheekPieces Knowledge
 
 .. toctree::
    :maxdepth: 1
-   :caption: 馬場情報+レースメモ:
+   :caption: 馬場情報2021:
    :numbered:
 
-   /trackinfo/2020/
+   /trackinfo/2021/
 
 
 
