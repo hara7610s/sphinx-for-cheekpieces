@@ -13,5 +13,12 @@ CheekPieces Knowledge
 
    /trackinfo/2021/
 
+.. toctree::
+   :maxdepth: 1
+   :caption: レース回顧2021:
+   :numbered:
+
+   /raceinfo/2021_race/
+
 
 * :ref:`search`
